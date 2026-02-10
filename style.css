@@ -1,0 +1,21 @@
+section .text{
+  border: 1px solid #99999979;
+  border-radius: 20px;
+  width: 10%;
+  text-align: center;
+}
+
+.container-fluid img{
+  position: relative;
+}
+
+.container-fluid h2{
+  position: absolute;
+  top: 50%;
+  left: 18%;
+  transform: translate(-50% , -50%);
+}
+
+.cards .card{
+  background-color: #EFF5FF;
+}
